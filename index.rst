@@ -10,7 +10,7 @@ Welcome to dl_book's documentation!
    :maxdepth: 2
    :caption: Contents:
    chapter3_NN/index
-   README
+   aws
 
 Indices and tables
 ==================
